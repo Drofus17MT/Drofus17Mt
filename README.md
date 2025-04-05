@@ -1,7 +1,5 @@
 <div align = "center">
   <h1 align="center">👋 ¡Hola! Soy Drofus</h1>
-  <img src="https://i.imgur.com/MnxKAJ7.png"; width: 900; height: 450;>
-  <h6>(La imagen no esta hecha por AI, aunque la parte que si use AI fue la del alfondo pero solo fue mejorar la calidad de imagen que es de la cancion de "DoomDay  By Cybergore" lo demas lo hice yo mismo.)</h5>
 </div>
 
 ## 🫀 Sobre mí
