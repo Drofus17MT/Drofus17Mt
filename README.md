@@ -18,7 +18,6 @@ He tenido la suerte de contribuir a varios proyectos dentro de la comunidad:
 - Permadark 3 ✅ (Completado)
 - Malig Night ✅ (Completado)
 - Drof Of Dead ✅ (Completado)
-- Hell Abyss 4 🔄 (En desarrollo)
 - Dark Night 🔄 (En desarrollo)
 - Finding The DarkHold 2 🔄 (En desarrollo)
 - PabloSafio 🔄 (En desarrollo)
